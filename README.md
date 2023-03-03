@@ -1,2 +1,2 @@
-# beginer
+# Beginer
 I am beginer programer.
